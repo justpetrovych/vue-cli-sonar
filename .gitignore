@@ -20,5 +20,5 @@ yarn-error.log*
 *.sln
 *.sw?
 
-/coverage/*
+/coverage
 !/coverage/lcov.info
