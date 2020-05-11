@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testExecutions version="1">
   <file path="/Users/divanov/Projects/Determine/vue-cli-sonar/tests/unit/example.spec.js">
-    <testCase name="HelloWorld.vue renders props.msg when passed" duration="25"/>
+    <testCase name="HelloWorld.vue renders props.msg when passed" duration="30"/>
   </file>
 </testExecutions>
