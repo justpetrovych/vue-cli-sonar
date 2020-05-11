@@ -5,4 +5,5 @@ module.exports = {
     'src/**/*.{js,vue}',
     '!src/main.js',
   ],
+  testResultsProcessor: 'jest-sonar-reporter',
 };
